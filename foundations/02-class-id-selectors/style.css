@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+.lor {
+    background-color: lightpink;
+}
+#num2 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.num3{
+    font-size: 24px;
+}
+
+#num4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
